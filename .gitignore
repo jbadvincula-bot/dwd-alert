@@ -1,0 +1,13 @@
+ECHO is on.
+/vendor
+node_modules/
+/.env
+/.env.*
+/storage
+/public/storage
+
+/.idea
+/.vscode
+/.phpunit.result.cache
+.next/
+*.tsbuildinfo
